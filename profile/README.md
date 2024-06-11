@@ -62,5 +62,6 @@ PETMEETING을 통해서 본인 근처에 믿을만한 짝을 찾습니다.
 
 ---
 
-- Front-end : React.js
-- Back-end : nest.js, node.js, MySQL
+- Front-end : flutter
+- Back-end : node.js, mongoDB
+- infra : AWS
